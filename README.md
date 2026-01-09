@@ -1,4 +1,9 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8786908a-e679-40f1-a5d5-9000f124e783" alt="Banner de Juan Alberto Arevalo Arevalo Caceres">
+</p>
+
+
 
 <!--
 **Juareca/Juareca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
