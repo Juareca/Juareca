@@ -1,6 +1,7 @@
+
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8786908a-e679-40f1-a5d5-9000f124e783" alt="Banner de Juan Alberto Arevalo Arevalo Caceres">
+  <img alt="ChatGPT Image 9 ene 2026, 05_18_14 p m" src="https://github.com/user-attachments/assets/7edb5535-29e8-4326-ae0a-5d95a5b03b0f" alt="Banner de Juan Alberto Arevalo Arevalo Caceres" />
 </p>
 
 
