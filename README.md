@@ -6,6 +6,15 @@
   <h1>Hola👋</h1>
 </div>
 
+<p align="center">
+  <a href="https://www.instagram.com/juan.arevaloc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/results?search_query=juareca" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
 
 
 
