@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>Ingeniero de software próximo a graduarse en marzo de 2026, enfocado en resolver problemas mediante soluciones tecnológicas claras y efectivas.</b>
+  <b>Ingeniero de software Colombiano próximo a graduarse en marzo de 2026, enfocado en resolver problemas mediante soluciones tecnológicas claras y efectivas.</b>
 </p>
 
 ---
