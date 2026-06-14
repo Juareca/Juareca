@@ -16,49 +16,33 @@
 </p>
 
 <p align="center">
-  <b>Ingeniero de software Colombiano próximo a graduarse en marzo de 2026, enfocado en resolver problemas mediante soluciones tecnológicas claras y efectivas.</b>
+  <b>Ingeniero de Software colombiano, especializado en crear soluciones tecnológicas claras, efectivas y orientadas a resultados.</b>
 </p>
 
 ---
 
 ### ✨ Sobre mí
 
-- 🎓 **Ingeniero de software próximo a graduarse**  
-- 🧩 Enfocado en **resolver problemas de software** mediante soluciones tecnológicas claras y efectivas  
-- 🛠️ Experiencia en **desarrollo web y móvil**, integración de sistemas y bases de datos  
-- 🚀 Interés en **arquitectura de software, buenas prácticas y código limpio**  
-- 🤝 Disfruto trabajar en **equipos de desarrollo colaborativos**  
-- 📚 Crecimiento constante mediante **aprendizaje continuo**
+- 🎓 **Ingeniero de Software graduado**
+- 🧩 Enfocado en **resolver problemas reales** mediante soluciones tecnológicas eficientes
+- 🛠️ Experiencia en **desarrollo web y móvil**, integración de sistemas, APIs y bases de datos
+- 🚀 Interés en **arquitectura de software, patrones de diseño y buenas prácticas**
+- 🤝 Disfruto trabajar en **equipos colaborativos y orientados a resultados**
+- 📚 Comprometido con el **aprendizaje continuo** y la mejora profesional
 
-### 🎯 Lo que busco
+### 🎯 Lo que ofrezco
 
-- 💼 Oportunidades para **aportar en proyectos reales**
-- 🧠 Desafíos que impliquen **análisis, diseño y construcción de software**
-- 🌱 Espacios donde pueda **crecer profesional y técnicamente**
+- 💼 Capacidad para aportar en **proyectos reales y escalables**
+- 🧠 Enfoque en **análisis, diseño y construcción de software de calidad**
+- 🌱 Adaptabilidad, pensamiento crítico y crecimiento técnico constante
 
 ### 📫 Contacto
 
-- ✉️ **alberjuan2411@gmail.com**  
+- ✉️ **alberjuan2411@gmail.com**
 - 📱 **3016482354**
 
 ---
 
-
-
-
-
-
 <!--
 **Juareca/Juareca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
