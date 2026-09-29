@@ -23,7 +23,7 @@
 
 ### ✨ Sobre mí
 
-- 🎓 **Ingeniero de Software graduado**
+- 🎓 **Ingeniero de Software**
 - 🧩 Enfocado en **resolver problemas reales** mediante soluciones tecnológicas eficientes
 - 🛠️ Experiencia en **desarrollo web y móvil**, integración de sistemas, APIs y bases de datos
 - 🚀 Interés en **arquitectura de software, patrones de diseño y buenas prácticas**
@@ -34,12 +34,12 @@
 
 - 💼 Capacidad para aportar en **proyectos reales y escalables**
 - 🧠 Enfoque en **análisis, diseño y construcción de software de calidad**
-- 🌱 Adaptabilidad, pensamiento crítico y crecimiento técnico constante
+- 🌱 Adaptabilidad y crecimiento técnico constante
 
 ### 📫 Contacto
 
 - ✉️ **alberjuan2411@gmail.com**
-- 📱 **3016482354**
+- 📱 **+57 3016482354**
 
 ---
 
